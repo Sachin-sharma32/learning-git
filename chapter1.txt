@@ -1,0 +1,4 @@
+sachin sharma is the best person in the world
+// git init
+// git status (files inside staging area)
+// git add .  (add file to staging area)
