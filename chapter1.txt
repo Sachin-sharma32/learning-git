@@ -2,3 +2,7 @@ sachin sharma is the best person in the world
 // git init
 // git status (files inside staging area)
 // git add .  (add file to staging area)
+// git commit -g 'initial'
+// git log (all our commits)
+// git add .  (to add chapter2 and chapter3 to staging area)
+// git commit -g 'second commit'
